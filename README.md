@@ -1,1 +1,3 @@
-# cristalotecaV2
+# Cristaloteca da Gruta Ganesha
+
+Versão final sem TypeScript.
